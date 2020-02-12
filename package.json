@@ -23,7 +23,7 @@
     "method-override": "~1.0.0",
     "moment": "^2.10.6",
     "mongoose": "^4.2.9",
-    "morgan": "~1.0.0",
+    "morgan": "~1.9.1",
     "node-slack": "0.0.7",
     "node-uuid": "^1.4.3",
     "passport": "~0.2.0",
